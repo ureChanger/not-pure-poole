@@ -2,6 +2,7 @@
 title: Not Pure Poole
 description: A simple, beautiful, and powerful Jekyll theme for blogs
 url: https://poole.netlify.app
+baseurl: /blog
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
